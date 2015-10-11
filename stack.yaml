@@ -1,1 +1,4 @@
 resolver: lts-3.8
+extra-deps:
+- bk-tree-0.1.1
+- edit-distance-0.2.2.1
