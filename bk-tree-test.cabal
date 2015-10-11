@@ -1,0 +1,13 @@
+Name:                bk-tree-test
+Version:             0.0.1
+License:             BSD3
+License-file:        LICENSE
+Build-Type:          Simple
+Cabal-Version:       >=1.2
+
+
+Executable bk-tree-test
+     Build-Depends:     base >= 3 && < 5
+     ghc-options:       -Wall
+     hs-source-dirs: src
+     main-is: Main.hs
